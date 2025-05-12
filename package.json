@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^6.19.2",
     "eslint-config-prettier": "^10.1.5",
     "next": "15.3.2",
     "prettier": "^3.5.3",
